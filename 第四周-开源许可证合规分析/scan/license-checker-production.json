@@ -1,0 +1,353 @@
+{
+  "@pm2/js-api@0.8.1": {
+    "licenses": "Apache*",
+    "repository": "https://github.com/keymetrics/km.js",
+    "publisher": "Keymetrics Team",
+    "path": "/private/tmp/pm2/node_modules/@pm2/js-api",
+    "licenseFile": "/private/tmp/pm2/node_modules/@pm2/js-api/LICENSE"
+  },
+  "@pm2/pm2-version-check@1.0.4": {
+    "licenses": "MIT",
+    "publisher": "Alexandre Strzelewicz",
+    "path": "/private/tmp/pm2/node_modules/@pm2/pm2-version-check",
+    "licenseFile": "/private/tmp/pm2/node_modules/@pm2/pm2-version-check/README.md"
+  },
+  "amp-message@0.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/visionmedia/node-amp-message",
+    "path": "/private/tmp/pm2/node_modules/amp-message",
+    "licenseFile": "/private/tmp/pm2/node_modules/amp-message/Readme.md"
+  },
+  "amp@0.3.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/visionmedia/node-amp",
+    "path": "/private/tmp/pm2/node_modules/amp",
+    "licenseFile": "/private/tmp/pm2/node_modules/amp/Readme.md"
+  },
+  "ansi-styles@4.3.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chalk/ansi-styles",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "/private/tmp/pm2/node_modules/ansi-styles",
+    "licenseFile": "/private/tmp/pm2/node_modules/ansi-styles/license"
+  },
+  "ansis@4.0.0-node10": {
+    "licenses": "ISC",
+    "repository": "https://github.com/webdiscus/ansis",
+    "publisher": "webdiscus",
+    "path": "/private/tmp/pm2/node_modules/ansis",
+    "licenseFile": "/private/tmp/pm2/node_modules/ansis/LICENSE"
+  },
+  "anymatch@3.1.3": {
+    "licenses": "ISC",
+    "repository": "https://github.com/micromatch/anymatch",
+    "publisher": "Elan Shanker",
+    "url": "https://github.com/es128",
+    "path": "/private/tmp/pm2/node_modules/anymatch",
+    "licenseFile": "/private/tmp/pm2/node_modules/anymatch/LICENSE"
+  },
+  "argparse@2.0.1": {
+    "licenses": "Python-2.0",
+    "repository": "https://github.com/nodeca/argparse",
+    "path": "/private/tmp/pm2/node_modules/argparse",
+    "licenseFile": "/private/tmp/pm2/node_modules/argparse/LICENSE"
+  },
+  "async@2.6.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/caolan/async",
+    "publisher": "Caolan McMahon",
+    "path": "/private/tmp/pm2/node_modules/@pm2/js-api/node_modules/async",
+    "licenseFile": "/private/tmp/pm2/node_modules/@pm2/js-api/node_modules/async/LICENSE"
+  },
+  "async@3.2.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/caolan/async",
+    "publisher": "Caolan McMahon",
+    "path": "/private/tmp/pm2/node_modules/async",
+    "licenseFile": "/private/tmp/pm2/node_modules/async/LICENSE"
+  },
+  "binary-extensions@2.3.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/binary-extensions",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com",
+    "path": "/private/tmp/pm2/node_modules/binary-extensions",
+    "licenseFile": "/private/tmp/pm2/node_modules/binary-extensions/license"
+  },
+  "chalk@3.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chalk/chalk",
+    "path": "/private/tmp/pm2/node_modules/chalk",
+    "licenseFile": "/private/tmp/pm2/node_modules/chalk/license"
+  },
+  "cli-tableau@2.0.1": {
+    "licenses": "MIT*",
+    "repository": "https://github.com/Keymetrics/cli-table",
+    "publisher": "Guillermo Rauch",
+    "email": "guillermo@learnboost.com",
+    "path": "/private/tmp/pm2/node_modules/cli-tableau",
+    "licenseFile": "/private/tmp/pm2/node_modules/cli-tableau/LICENSE"
+  },
+  "color-convert@2.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/Qix-/color-convert",
+    "publisher": "Heather Arthur",
+    "email": "fayearthur@gmail.com",
+    "path": "/private/tmp/pm2/node_modules/color-convert",
+    "licenseFile": "/private/tmp/pm2/node_modules/color-convert/LICENSE"
+  },
+  "color-name@1.1.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/colorjs/color-name",
+    "publisher": "DY",
+    "email": "dfcreative@gmail.com",
+    "path": "/private/tmp/pm2/node_modules/color-name",
+    "licenseFile": "/private/tmp/pm2/node_modules/color-name/LICENSE"
+  },
+  "commander@2.15.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/tj/commander.js",
+    "publisher": "TJ Holowaychuk",
+    "email": "tj@vision-media.ca",
+    "path": "/private/tmp/pm2/node_modules/commander",
+    "licenseFile": "/private/tmp/pm2/node_modules/commander/LICENSE"
+  },
+  "croner@4.1.97": {
+    "licenses": "MIT",
+    "repository": "https://github.com/hexagon/croner",
+    "publisher": "Hexagon",
+    "email": "github.com/hexagon",
+    "path": "/private/tmp/pm2/node_modules/croner",
+    "licenseFile": "/private/tmp/pm2/node_modules/croner/LICENSE"
+  },
+  "dayjs@1.11.15": {
+    "licenses": "MIT",
+    "repository": "https://github.com/iamkun/dayjs",
+    "publisher": "iamkun",
+    "path": "/private/tmp/pm2/node_modules/dayjs",
+    "licenseFile": "/private/tmp/pm2/node_modules/dayjs/LICENSE"
+  },
+  "debug@4.4.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/debug-js/debug",
+    "publisher": "Josh Junon",
+    "url": "https://github.com/qix-",
+    "path": "/private/tmp/pm2/node_modules/debug",
+    "licenseFile": "/private/tmp/pm2/node_modules/debug/LICENSE"
+  },
+  "eventemitter2@6.4.9": {
+    "licenses": "MIT",
+    "repository": "https://github.com/hij1nx/EventEmitter2",
+    "publisher": "hij1nx",
+    "email": "paolo@async.ly",
+    "path": "/private/tmp/pm2/node_modules/eventemitter2",
+    "licenseFile": "/private/tmp/pm2/node_modules/eventemitter2/LICENSE.txt"
+  },
+  "extrareqp2@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/keymetrics/extrareqp2",
+    "publisher": "Matt Zabriskie",
+    "path": "/private/tmp/pm2/node_modules/extrareqp2",
+    "licenseFile": "/private/tmp/pm2/node_modules/extrareqp2/LICENSE"
+  },
+  "fast-json-patch@3.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/Starcounter-Jack/JSON-Patch",
+    "publisher": "Joachim Wester",
+    "email": "joachimwester@me.com",
+    "url": "http://www.starcounter.com/",
+    "path": "/private/tmp/pm2/node_modules/fast-json-patch",
+    "licenseFile": "/private/tmp/pm2/node_modules/fast-json-patch/LICENSE.txt"
+  },
+  "follow-redirects@1.16.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/follow-redirects/follow-redirects",
+    "publisher": "Ruben Verborgh",
+    "email": "ruben@verborgh.org",
+    "url": "https://ruben.verborgh.org/",
+    "path": "/private/tmp/pm2/node_modules/follow-redirects",
+    "licenseFile": "/private/tmp/pm2/node_modules/follow-redirects/LICENSE"
+  },
+  "fsevents@2.3.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/fsevents/fsevents",
+    "path": "/private/tmp/pm2/node_modules/fsevents",
+    "licenseFile": "/private/tmp/pm2/node_modules/fsevents/LICENSE"
+  },
+  "glob-parent@5.1.2": {
+    "licenses": "ISC",
+    "repository": "https://github.com/gulpjs/glob-parent",
+    "publisher": "Gulp Team",
+    "email": "team@gulpjs.com",
+    "url": "https://gulpjs.com/",
+    "path": "/private/tmp/pm2/node_modules/glob-parent",
+    "licenseFile": "/private/tmp/pm2/node_modules/glob-parent/LICENSE"
+  },
+  "has-flag@4.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/has-flag",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "/private/tmp/pm2/node_modules/has-flag",
+    "licenseFile": "/private/tmp/pm2/node_modules/has-flag/license"
+  },
+  "is-binary-path@2.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/is-binary-path",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "/private/tmp/pm2/node_modules/is-binary-path",
+    "licenseFile": "/private/tmp/pm2/node_modules/is-binary-path/license"
+  },
+  "is-extglob@2.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jonschlinkert/is-extglob",
+    "publisher": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert",
+    "path": "/private/tmp/pm2/node_modules/is-extglob",
+    "licenseFile": "/private/tmp/pm2/node_modules/is-extglob/LICENSE"
+  },
+  "is-glob@4.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/micromatch/is-glob",
+    "publisher": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert",
+    "path": "/private/tmp/pm2/node_modules/is-glob",
+    "licenseFile": "/private/tmp/pm2/node_modules/is-glob/LICENSE"
+  },
+  "js-yaml@4.3.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/nodeca/js-yaml",
+    "publisher": "Vladimir Zapparov",
+    "email": "dervus.grim@gmail.com",
+    "path": "/private/tmp/pm2/node_modules/js-yaml",
+    "licenseFile": "/private/tmp/pm2/node_modules/js-yaml/LICENSE"
+  },
+  "json-stringify-safe@5.0.1": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/json-stringify-safe",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me",
+    "path": "/private/tmp/pm2/node_modules/json-stringify-safe",
+    "licenseFile": "/private/tmp/pm2/node_modules/json-stringify-safe/LICENSE"
+  },
+  "lodash@4.18.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/lodash/lodash",
+    "publisher": "John-David Dalton",
+    "email": "john.david.dalton@gmail.com",
+    "path": "/private/tmp/pm2/node_modules/lodash",
+    "licenseFile": "/private/tmp/pm2/node_modules/lodash/LICENSE"
+  },
+  "ms@2.1.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/vercel/ms",
+    "path": "/private/tmp/pm2/node_modules/ms",
+    "licenseFile": "/private/tmp/pm2/node_modules/ms/license.md"
+  },
+  "normalize-path@3.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jonschlinkert/normalize-path",
+    "publisher": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert",
+    "path": "/private/tmp/pm2/node_modules/normalize-path",
+    "licenseFile": "/private/tmp/pm2/node_modules/normalize-path/LICENSE"
+  },
+  "picomatch@2.3.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/micromatch/picomatch",
+    "publisher": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert",
+    "path": "/private/tmp/pm2/node_modules/picomatch",
+    "licenseFile": "/private/tmp/pm2/node_modules/picomatch/LICENSE"
+  },
+  "pidusage@4.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/soyuka/pidusage",
+    "publisher": "soyuka",
+    "path": "/private/tmp/pm2/node_modules/pidusage",
+    "licenseFile": "/private/tmp/pm2/node_modules/pidusage/LICENSE"
+  },
+  "pm2-deploy@1.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/Unitech/pm2-deploy",
+    "publisher": "Alexandre Strzelewicz",
+    "path": "/private/tmp/pm2/node_modules/pm2-deploy",
+    "licenseFile": "/private/tmp/pm2/node_modules/pm2-deploy/LICENSE"
+  },
+  "pm2@7.1.2": {
+    "licenses": "AGPL-3.0",
+    "repository": "https://github.com/Unitech/pm2",
+    "publisher": "Strzelewicz Alexandre",
+    "email": "alex@edgecraft.io <Pour ce Nouveau Monde",
+    "url": "https://pm2.io",
+    "path": "/private/tmp/pm2",
+    "licenseFile": "/private/tmp/pm2/LICENSE"
+  },
+  "readdirp@3.6.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/paulmillr/readdirp",
+    "publisher": "Thorsten Lorenz",
+    "email": "thlorenz@gmx.de",
+    "url": "thlorenz.com",
+    "path": "/private/tmp/pm2/node_modules/readdirp",
+    "licenseFile": "/private/tmp/pm2/node_modules/readdirp/LICENSE"
+  },
+  "run-series@1.1.9": {
+    "licenses": "MIT",
+    "repository": "https://github.com/feross/run-series",
+    "publisher": "Feross Aboukhadijeh",
+    "email": "feross@feross.org",
+    "url": "https://feross.org",
+    "path": "/private/tmp/pm2/node_modules/run-series",
+    "licenseFile": "/private/tmp/pm2/node_modules/run-series/LICENSE"
+  },
+  "semver@7.7.2": {
+    "licenses": "ISC",
+    "repository": "https://github.com/npm/node-semver",
+    "publisher": "GitHub Inc.",
+    "path": "/private/tmp/pm2/node_modules/semver",
+    "licenseFile": "/private/tmp/pm2/node_modules/semver/LICENSE"
+  },
+  "supports-color@7.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chalk/supports-color",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "/private/tmp/pm2/node_modules/supports-color",
+    "licenseFile": "/private/tmp/pm2/node_modules/supports-color/license"
+  },
+  "tv4@1.3.0": {
+    "licenses": [
+      "Public Domain",
+      "MIT"
+    ],
+    "repository": "https://github.com/geraintluff/tv4",
+    "publisher": "Geraint Luff",
+    "path": "/private/tmp/pm2/node_modules/tv4",
+    "licenseFile": "/private/tmp/pm2/node_modules/tv4/LICENSE.txt"
+  },
+  "tx2@1.0.5": {
+    "licenses": "MIT",
+    "publisher": "PM2",
+    "path": "/private/tmp/pm2/node_modules/tx2",
+    "licenseFile": "/private/tmp/pm2/node_modules/tx2/LICENSE"
+  },
+  "ws@8.21.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/websockets/ws",
+    "publisher": "Einar Otto Stangvik",
+    "email": "einaros@gmail.com",
+    "url": "http://2x.io",
+    "path": "/private/tmp/pm2/node_modules/ws",
+    "licenseFile": "/private/tmp/pm2/node_modules/ws/LICENSE"
+  }
+}
+

@@ -1,0 +1,23 @@
+# CANN Add 算子 CPU 金标准验证记录
+# 运行时间: 2026-11-25 19:54:43 CST
+# 运行环境: Python 3.9.6 / Darwin arm64
+# 说明: 本验证仅覆盖算法与分块逻辑，不代表 Ascend C Kernel 已在 NPU 上运行
+
+test_empty_input (test_golden_add.TestAddNaive) ... ok
+test_float_precision (test_golden_add.TestAddNaive) ... ok
+test_length_mismatch_raises (test_golden_add.TestAddNaive) ... ok
+test_mixed_sign_numbers (test_golden_add.TestAddNaive) ... ok
+test_positive_numbers (test_golden_add.TestAddNaive) ... ok
+test_tiled_covers_every_element (test_golden_add.TestAddTiled)
+用“每个位置加不同偏移”的方式检查是否有遗漏或重复写入。 ... ok
+test_tiled_equals_naive_on_kernel_shape (test_golden_add.TestAddTiled)
+使用与 Kernel 相同的形状：8192 元素、8 核、每核 8 tile。 ... ok
+test_tiled_rejects_unaligned_length (test_golden_add.TestAddTiled) ... ok
+test_tiled_rejects_zero_tile (test_golden_add.TestAddTiled) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.003s
+
+OK
+
+# 退出码: 0

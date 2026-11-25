@@ -1,0 +1,44 @@
+# 工具运行关键输出（真实执行节选）
+# 记录时间: 2026-11-25 19:55:35 CST
+# 工作目录: /tmp/pm2 (PM2 7.1.2, commit 7a7fb4e)
+
+$ npm install --ignore-scripts --no-audit --no-fund
+
+up to date in 152ms
+
+$ licensee --osi --production --errors-only
+@pm2/js-api@0.8.1
+  NOT APPROVED
+  Terms: Invalid SPDX expression "Apache-2"
+  Repository: git+https://github.com/keymetrics/km.js.git
+  Homepage: https://github.com/keymetrics/km.js#readme
+  Author: Keymetrics Team
+  Contributors: None listed
+
+cli-tableau@2.0.1
+  NOT APPROVED
+  Terms: Invalid license metadata
+  Repository: https://github.com/Keymetrics/cli-table.git
+  Homepage: None listed
+  Author: Guillermo Rauch <guillermo@learnboost.com>
+  Contributors:
+    Sonny Michaud <Michaud.sonny@gmail.com>
+
+tv4@1.3.0
+  NOT APPROVED
+  Terms: [{"type":"Public Domain","url":"http://geraintluff.github.io/tv4/LICENSE.txt"},{"type":"MIT","url":"http://jsonary.com/LICENSE.txt"}]
+  Repository: https://github.com/geraintluff/tv4.git
+  Homepage: None listed
+  Author: Geraint Luff
+  Contributors: None listed
+
+
+$ license-checker --production --summary
+├─ MIT: 35
+├─ ISC: 5
+├─ Apache*: 1
+├─ Python-2.0: 1
+├─ MIT*: 1
+├─ AGPL-3.0: 1
+└─ Public Domain,MIT: 1
+

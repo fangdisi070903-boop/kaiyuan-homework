@@ -1,0 +1,9 @@
+# 被扫描项目信息（真实查询）
+project: PM2 (Process Manager 2)
+repository: https://github.com/Unitech/pm2
+version: 7.1.2
+license: AGPL-3.0
+commit: 7a7fb4e22e9a26ec79c870ce8daafd2f78b648d1
+commit_date: 2026-11-03T11:12:24Z
+source_archive: https://codeload.github.com/Unitech/pm2/tar.gz/refs/heads/master
+scan_date: 2026-11-25

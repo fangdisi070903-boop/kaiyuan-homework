@@ -1,0 +1,30 @@
+# 扫描环境与工具版本（真实执行记录）
+# 记录时间: 2026-11-25 19:55:31 CST
+
+$ sw_vers
+ProductName:		macOS
+ProductVersion:		26.6.2
+BuildVersion:		25G83
+
+$ uname -m
+arm64
+
+$ node --version
+v20.18.1
+
+$ npm --version
+10.8.2
+
+$ npm config get registry
+https://registry.npmmirror.com
+
+$ licensee --version
+12.0.2
+
+$ license-checker --version
+25.0.1
+
+$ npm view pm2 version license
+version = '7.1.2'
+license = 'AGPL-3.0'
+
